@@ -12,7 +12,7 @@ This Python script allows you to send emails using the `smtplib` library. It pro
 1. Clone or download the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your_username/python-email-sender.git
+    git clone  https://github.com/MohammedKaif037/EmailAutomation
     ```
 
 2. Navigate to the project directory.
